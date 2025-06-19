@@ -8,7 +8,7 @@ An interactive basketball game mechanics simulator for exploring strategic gamep
 
 The Game Mechanics Simulator is a web-based tool that allows coaches, players, and basketball enthusiasts to test different game scenarios by manipulating rules, strategies, and player attributes. This simulator helps users understand how various rule changes and strategic decisions might impact actual game outcomes.
 
-## ✨ Key Features
+## ⚙️ Key Features
 
 - **Rule Manipulation**: Experiment with NBA rule changes (shot clock, 3-point line distance, etc.) to see how they affect gameplay
 - **Scenario Builder**: Create custom game situations (end-of-game, specific defensive sets, etc.)
@@ -47,7 +47,7 @@ npm install
 npm run dev
 ```
 
-## 📋 Project Structure
+## 🗂️ Project Structure
 
 ```
 game-mechanics-simulator/
@@ -67,7 +67,7 @@ game-mechanics-simulator/
 └── README.md              # Project documentation
 ```
 
-## 🎯 Core Simulator Components
+## 💻 Core Simulator Components
 
 ### Rule Engine
 
@@ -96,14 +96,14 @@ Users can manipulate various parameters:
 - **Player Attributes**: Shooting percentages, defensive ratings, fatigue factors
 - **Game Context**: Score, time remaining, timeouts, fouls
 
-## 🔍 Use Cases
+## 📊 Use Cases
 
 1. **Coaches**: Test late-game strategies without real-game consequences
 2. **Analysts**: Examine rule change impacts through data-driven simulations
 3. **Basketball Operations**: Evaluate potential league rule changes with quantifiable metrics
 4. **Basketball Enthusiasts**: Explore "what-if" scenarios for favorite teams and games
 
-## 📈 Future Enhancements
+## 🔮 Future Enhancements
 
 - Machine learning integration for more accurate predictions
 - Additional visualization types for better result interpretation
@@ -121,4 +121,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with 🏀 by [DXAGInfo](https://github.com/dxaginfo)
+Built with ❤️ by [DXAGInfo](https://github.com/dxaginfo)
